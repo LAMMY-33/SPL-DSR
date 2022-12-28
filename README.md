@@ -26,7 +26,7 @@
 ```
 <br>
 【P1】━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
-◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用
+◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用<br>
 ```
 ~Lv2~{"Name":"◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorName":"騎神トールダン","includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
 ```
