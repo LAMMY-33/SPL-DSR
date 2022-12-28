@@ -8,7 +8,7 @@
 ~Lv2~{"Name":"◆絶竜詩【P1】チャリ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"001","type":1,"radius":6.0,"color":3355487999,"thicc":4.0,"refActorName":"聖騎士グリノー","Filled":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":6.0,"Match":"聖騎士グリノーは「フルディメンション」の構え。"}]}
 ```
 
-```◆絶竜詩【P1】ダイナモ
+◆絶竜詩【P1】ダイナモ```
 ~Lv2~{"Name":"◆絶竜詩【P1】ダイナモ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"001","type":1,"radius":6.0,"color":3368717308,"thicc":12.0,"refActorName":"聖騎士グリノー"}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"聖騎士グリノーは「エンプティディメンション」の構え。"}]}
 ```
 
