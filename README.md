@@ -12,9 +12,9 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P1】ダイナモ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"001","type":1,"radius":6.0,"color":3368717308,"thicc":12.0,"refActorName":"聖騎士グリノー"}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"聖騎士グリノーは「エンプティディメンション」の構え。"}]}
 ```
-
+◆絶竜詩【P1】シェイカー
 ```
-
+~Lv2~{"Name":"◆絶竜詩【P1】シェイカー","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"1","type":2,"refX":89.6,"refY":94.1,"offX":91.6,"offY":94.1,"offZ":-1.9073486E-06,"radius":1.0,"color":4292289791,"thicc":0.0,"FillStep":1.0},{"Name":"2","type":2,"refX":94.7,"refY":91.1,"offX":96.7,"offY":91.1,"offZ":-1.9073486E-06,"radius":1.0,"color":4292289791,"thicc":0.0,"FillStep":1.0},{"Name":"3","type":2,"refX":105.4,"refY":91.1,"offX":103.4,"offY":91.1,"offZ":-1.9073486E-06,"radius":1.0,"color":4292289791,"thicc":0.0,"FillStep":1.0},{"Name":"4","type":2,"refX":110.4,"refY":94.1,"offX":108.4,"offY":94.1,"offZ":-1.9073486E-06,"radius":1.0,"color":4292289791,"thicc":0.0,"FillStep":1.0},{"Name":"5","type":2,"refX":89.6,"refY":105.9,"offX":91.6,"offY":105.9,"offZ":-1.9073486E-06,"radius":1.0,"color":4294919680,"thicc":0.0,"FillStep":1.0},{"Name":"6","type":2,"refX":94.7,"refY":108.9,"offX":96.7,"offY":108.9,"offZ":-1.9073486E-06,"radius":1.0,"color":4294919680,"thicc":0.0,"FillStep":1.0},{"Name":"7","type":2,"refX":105.4,"refY":108.9,"offX":103.4,"offY":108.9,"offZ":-1.9073486E-06,"radius":1.0,"color":4294919680,"thicc":0.0,"FillStep":1.0},{"Name":"8","type":2,"refX":110.4,"refY":105.9,"offX":108.4,"offY":105.9,"offZ":-1.9073486E-06,"radius":1.0,"color":4294919680,"thicc":0.0,"FillStep":1.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":15.0,"Match":"聖騎士グリノーは「ハイパーディメンション」の構え。"}]}
 ```
 
 ```
