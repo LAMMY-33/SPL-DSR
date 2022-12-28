@@ -64,7 +64,7 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P2】トールダン大振りPP","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"ふらふら","refX":100.0,"refY":91.0,"radius":0.3,"color":4294901826,"thicc":1.0,"refActorName":"Lammy Westin","includeRotation":true,"onlyTargetable":true},{"Name":"中心","refX":99.99596,"refY":99.99971,"radius":1.0,"color":3369542911,"thicc":5.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":68.0,"Match":"この地に眠る、微睡みの神より力を引き出せ！","MatchDelay":14.0}]}
 ```
-# 𝗦𝗣𝗟-𝗗𝗦𝗥-𝗣𝗵𝗮𝘀𝗲③④⑤⑥⑦
+# 𝗦𝗣𝗟-𝗗𝗦𝗥-𝗣𝗵𝗮𝘀𝗲③
 ◆絶竜詩【P3】ゲイルスコグル
 ```
 ~Lv2~{"Name":"◆絶竜詩【P3】ゲイルスコグル","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"左線","type":3,"refX":-4.0,"refY":40.0,"offX":-4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"右線","type":3,"refX":4.0,"refY":40.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"横線","type":3,"refX":-4.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"Match":"ニーズヘッグは「ゲイルスコグル」の構え。"}]}
@@ -83,7 +83,7 @@
 ```
 
 
-
+# 作業中↓
 # 𝗦𝗣𝗟-𝗗𝗦𝗥-𝗣𝗵𝗮𝘀𝗲③
 # 𝗦𝗣𝗟-𝗗𝗦𝗥-𝗣𝗵𝗮𝘀𝗲④
 # 𝗦𝗣𝗟-𝗗𝗦𝗥-𝗣𝗵𝗮𝘀𝗲⑤
