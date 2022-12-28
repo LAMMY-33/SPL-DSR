@@ -24,19 +24,24 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P2】ULTIMATE-END-PIZZA","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":1,"ElementsL":[{"Name":"騎神トールダン-1","type":3,"refY":5.0,"radius":0.01,"thicc":1.0,"refActorNameIntl":{"En":"King Thordan","Jp":"騎神トールダン"},"includeRotation":true,"onlyTargetable":true},{"Name":"騎神トールダン-2","type":3,"refY":5.0,"radius":0.01,"color":3372155032,"refActorNameIntl":{"En":"King Thordan","Jp":"騎神トールダン"},"includeRotation":true,"onlyTargetable":true,"AdditionalRotation":2.0943952},{"Name":"騎神トールダン-3","type":3,"refY":5.0,"radius":0.01,"color":3372155032,"refActorNameIntl":{"En":"King Thordan","Jp":"騎神トールダン"},"includeRotation":true,"onlyTargetable":true,"AdditionalRotation":4.1887903},{"Name":"大振り→","type":1,"offX":2.0,"overlayBGColor":592141,"overlayTextColor":3355443200,"overlayText":"→","refActorNameIntl":{"En":"King Thordan","Jp":"騎神トールダン"},"refActorRequireCast":true,"refActorCastId":[25536],"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"大振り←","type":1,"offX":-2.0,"color":3372171264,"overlayBGColor":592141,"overlayTextColor":3355443200,"overlayText":"←","refActorNameIntl":{"En":"King Thordan","Jp":"騎神トールダン"},"refActorRequireCast":true,"refActorCastId":[25537],"includeRotation":true,"onlyVisible":true,"Filled":true},{"Name":"騎竜神トールダン-0","type":1,"radius":8.0,"refActorNPCNameID":11319,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"騎竜神トールダン-1","type":3,"refY":8.0,"offX":0.5,"offY":7.0,"radius":0.01,"thicc":1.0,"refActorNPCNameID":11319,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"騎竜神トールダン-2","type":3,"refY":8.0,"offX":-0.5,"offY":7.0,"radius":0.01,"thicc":1.0,"refActorNPCNameID":11319,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"騎竜神トールダン-3","type":3,"refX":0.5,"refY":7.0,"offX":-0.5,"offY":7.0,"radius":0.01,"thicc":1.0,"refActorNPCNameID":11319,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true},{"Name":"騎竜神トールダン-4","type":3,"refY":8.0,"offY":7.0,"radius":0.01,"thicc":1.0,"refActorNPCNameID":11319,"refActorComparisonType":6,"includeRotation":true,"onlyVisible":true,"AdditionalRotation":5.497787}]}
 ```
-◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用
+◆絶竜詩【P2】雷槍/突っ込み
 ```
-~Lv2~{"Name":"◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorName":"騎神トールダン","includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
+~Lv2~{"Name":"◆絶竜詩【P2】雷槍/突っ込み","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"聖騎士ポールクラン","type":3,"refY":50.0,"radius":7.8,"color":1174443999,"refActorNPCNameID":3637,"FillStep":0.4,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true},{"Name":"聖騎士イニアセル","type":3,"refY":50.0,"radius":7.8,"color":1174443999,"refActorNPCNameID":3638,"FillStep":0.4,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true},{"Name":"聖騎士ヴェルギーン","type":3,"refY":50.0,"radius":7.8,"color":1174443999,"refActorNPCNameID":3636,"FillStep":0.4,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"騎神トールダンの「蒼天の陣：雷槍」","MatchDelay":2.0}]}
 ```
-◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用
+◆絶竜詩【P2】雷槍/ドーナッツ
 ```
-~Lv2~{"Name":"◆絶竜詩【P2】雷槍の塔処理/トールダン位置確認用","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorNPCNameID":3632,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
+~Lv2~{"Name":"◆絶竜詩【P2】雷槍/ドーナッツ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"1","type":1,"radius":6.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"2","type":1,"radius":12.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"3","type":1,"radius":18.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"4","type":1,"radius":24.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":15.0,"Match":"騎神トールダンの「蒼天の陣：雷槍」"}]}
 ```
-
+◆絶竜詩【P2】雷槍/突っ込み<draft>
 ```
-
+~Lv2~{"Name":"◆絶竜詩【P2】雷槍/突っ込み<draft>","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"斜線01","type":2,"refX":80.0,"refY":80.0,"offX":120.0,"offY":120.0,"offZ":2.3841858E-07,"radius":0.0,"color":3355508651},{"Name":"斜線02","type":2,"refX":120.0,"refY":80.0,"offX":80.0,"offY":120.0,"radius":0.0,"color":3355508651},{"Name":"縦線01","type":2,"refX":100.0,"refY":77.0,"offX":100.0,"offY":123.0,"offZ":2.3841858E-07,"radius":0.0,"color":3355508651},{"Name":"横線02","type":2,"refX":123.0,"refY":100.0,"offX":77.0,"offY":100.0,"radius":0.0,"color":3355508651},{"Name":"雷槍仮円","refX":100.0,"refY":100.0,"refZ":1.9073486E-06,"radius":11.5,"color":3355508651,"thicc":5.0,"onlyVisible":true},{"Name":"外周","refX":100.0,"refY":100.0,"refZ":1.9073486E-06,"radius":21.0,"color":3355508651,"thicc":3.0,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":8.0,"Match":"騎神トールダンの「蒼天の陣：雷槍」"}]}
 ```
-
+```
+◆絶竜詩【P2】トールダン位置確認
+```
+~Lv2~{"Name":"◆絶竜詩【P2】トールダン位置確認","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorNPCNameID":3632,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
+```
+```
 ```
 
 ```
