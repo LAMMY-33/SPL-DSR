@@ -20,7 +20,7 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P1】フェイスアンムーブ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"01","type":2,"refX":100.0,"refY":91.0,"refZ":-1.9073486E-06,"offX":100.0,"offY":109.0,"radius":9.0,"color":16711684,"FillStep":9.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":5.0,"Match":"聖騎士グリノーの「フェイスアンムーブ」"}],"Phase":1}
 ```
-<br>
+# SPL-DSR<br>
 【P1】━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 ◆絶竜詩【P2】ULTIMATE-END-PIZZA<br>
 ```
