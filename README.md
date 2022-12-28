@@ -36,9 +36,9 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P2】雷槍/ドーナッツ","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"1","type":1,"radius":6.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"2","type":1,"radius":12.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"3","type":1,"radius":18.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true},{"Name":"4","type":1,"radius":24.0,"thicc":5.0,"refActorNPCNameID":3641,"refActorComparisonType":6,"onlyUnTargetable":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":15.0,"Match":"騎神トールダンの「蒼天の陣：雷槍」"}]}
 ```
-◆絶竜詩【P2】雷槍/トールダン位置確認
+◆絶竜詩【P2】雷槍/トールダン
 ```
-~Lv2~{"Name":"◆絶竜詩【P2】雷槍/トールダン位置確認","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorNPCNameID":3632,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
+~Lv2~{"Name":"◆絶竜詩【P2】雷槍/トールダン","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"騎神トールダンの「百雷」","type":3,"refY":24.0,"radius":0.5,"color":3355443423,"refActorNPCNameID":3632,"refActorComparisonType":6,"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"騎神トールダンの「百雷」"}]}
 ```
 ◆絶竜詩【P2】雷槍/散会位置確認
 ```
@@ -51,6 +51,31 @@
 ◆絶竜詩【P2】聖杖/白玉回避
 ```
 ~Lv2~{"Name":"◆絶竜詩【P2】聖杖/白玉回避","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"01","refX":103.32077,"refY":80.019066,"refZ":-4.7683716E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"02","refX":111.547455,"refY":83.35025,"refZ":-9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"03","refX":116.39796,"refY":88.11824,"refZ":9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"04","refX":119.9646,"refY":96.63612,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"05","refX":119.94625,"refY":103.332954,"refZ":4.7683716E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"06","refX":116.53317,"refY":111.625496,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"07","refX":111.77236,"refY":116.38963,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"08","refX":103.35565,"refY":119.87426,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"09","refX":96.70261,"refY":119.89157,"refZ":-9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"10","refX":88.35822,"refY":116.45416,"refZ":-9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"11","refX":83.64629,"refY":111.781685,"refZ":-4.7683716E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"12","refX":80.10479,"refY":103.29403,"refZ":-4.7683716E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"13","refX":80.11111,"refY":96.66466,"refZ":-9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"14","refX":83.535866,"refY":88.31299,"refZ":9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"15","refX":88.195404,"refY":83.58982,"refZ":-9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0},{"Name":"16","refX":96.62547,"refY":80.02041,"refZ":9.536743E-07,"radius":0.2,"color":4278255531,"overlayBGColor":3355508651,"overlayTextColor":3355443200,"thicc":4.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":25.0,"Match":"騎神トールダンは「蒼天の陣：聖杖」の構え。","MatchIntl":{"Jp":"騎神トールダンは「蒼天の陣：聖杖」の構え。"}}]}
+```
+◆絶竜詩【P2】聖杖/向き確認
+```
+~Lv2~{"Name":"◆絶竜詩【P2】聖杖/向き確認","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"tate","type":3,"refY":1.5,"radius":0.0,"color":3367108831,"thicc":5.0,"refActorPlaceholder":["<me>"],"refActorComparisonType":5,"includeRotation":true,"onlyVisible":true},{"Name":"L","type":3,"refY":1.5,"offX":-0.22,"offY":1.16,"radius":0.0,"color":3367108831,"thicc":5.0,"refActorPlaceholder":["<me>"],"refActorComparisonType":5,"includeRotation":true,"onlyVisible":true},{"Name":"R","type":3,"refY":1.5,"offX":0.22,"offY":1.16,"radius":0.0,"color":3367108831,"thicc":5.0,"refActorPlaceholder":["<me>"],"refActorComparisonType":5,"includeRotation":true,"onlyVisible":true},{"Name":"yoko","type":3,"refX":-0.22,"refY":1.15,"offX":0.22,"offY":1.15,"radius":0.0,"color":3367108831,"thicc":5.0,"refActorPlaceholder":["<me>"],"refActorComparisonType":5,"includeRotation":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":16.0,"Match":"蒼天の陣：聖杖」の構え。"}]}
+```
+◆絶竜詩【P2】聖杖/コメット/氷場所
+```
+~Lv2~{"Name":"◆絶竜詩【P2】聖杖/コメット/氷場所","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"AMK","refX":100.0,"refY":89.5,"radius":0.2,"thicc":5.0},{"Name":"BMK","refX":110.5,"refY":100.0,"radius":0.2,"color":4278255605,"thicc":5.0},{"Name":"CMK","refX":100.0,"refY":110.5,"radius":0.2,"color":3372154880,"thicc":5.0},{"Name":"DMK","refX":89.5,"refY":100.0,"radius":0.2,"color":3372155111,"thicc":5.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":10.0,"Match":"「竜の眼」を喰らいし聖剣アスカロンよ"}]}
+```
+◆絶竜詩【P2】トールダン大振りPP
+```
+~Lv2~{"Name":"◆絶竜詩【P2】トールダン大振りPP","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"ふらふら","refX":100.0,"refY":91.0,"radius":0.3,"color":4294901826,"thicc":1.0,"refActorName":"Lammy Westin","includeRotation":true,"onlyTargetable":true},{"Name":"中心","refX":99.99596,"refY":99.99971,"radius":1.0,"color":3369542911,"thicc":5.0}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":68.0,"Match":"この地に眠る、微睡みの神より力を引き出せ！","MatchDelay":14.0}]}
+```
+# SPL-DSR-P3
+◆絶竜詩【P3】ゲイルスコグル
+```
+~Lv2~{"Name":"◆絶竜詩【P3】ゲイルスコグル","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"左線","type":3,"refX":-4.0,"refY":40.0,"offX":-4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"右線","type":3,"refX":4.0,"refY":40.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"横線","type":3,"refX":-4.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"Match":"ニーズヘッグは「ゲイルスコグル」の構え。"}]}
+```
+
+```
+
+```
+
+```
+
 ```
 
 ```
