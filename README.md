@@ -1,4 +1,4 @@
-# SPL-DSR-P1
+# SPL-DSR-Phase1
 ◆絶竜詩【P1】東西南北の安全地帯
 ```
 ~Lv2~{"Name":"◆絶竜詩【P1】東西南北の安全地帯","Group":"◆絶竜詩","DCond":5,"ElementsL":[{"Name":"円","type":1,"radius":25.0,"thicc":10.0,"refActorName":"聖騎士アデルフェル"},{"Name":"柱","type":3,"refX":25.0,"offX":25.0,"offZ":5.0,"radius":0.0,"color":3372183808,"thicc":33.0,"refActorName":"聖騎士アデルフェル","includeRotation":true,"AdditionalRotation":4.712389},{"Name":"足元","type":1,"offX":25.0,"radius":0.5,"color":3372183808,"thicc":20.0,"refActorName":"聖騎士アデルフェル","includeRotation":true,"AdditionalRotation":4.712389}],"UseTriggers":true,"Triggers":[{"Type":2,"TimeBegin":54.0,"Duration":19.0,"Match":"聖騎士グリノーの「ハイパーディメンション」"}]}
