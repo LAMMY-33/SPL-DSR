@@ -69,10 +69,11 @@
 ```
 ~Lv2~{"Name":"◆絶竜詩【P3】ゲイルスコグル","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"左線","type":3,"refX":-4.0,"refY":40.0,"offX":-4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"右線","type":3,"refX":4.0,"refY":40.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"横線","type":3,"refX":-4.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"Match":"ニーズヘッグは「ゲイルスコグル」の構え。"}]}
 ```
-◆絶竜詩【P3】ゲイルスコグル<br>
-```
+◆絶竜詩【P3】ゲイルスコグル
+<br>
+``
 ~Lv2~{"Name":"◆絶竜詩【P3】ゲイルスコグル","Group":"◆絶竜詩","ZoneLockH":[968],"DCond":5,"ElementsL":[{"Name":"左線","type":3,"refX":-4.0,"refY":40.0,"offX":-4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"右線","type":3,"refX":4.0,"refY":40.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true},{"Name":"横線","type":3,"refX":-4.0,"offX":4.0,"radius":0.0,"color":3355489279,"thicc":5.0,"refActorName":"ニーズヘッグ","refActorRequireCast":true,"refActorCastId":[3555,6066,6312,8805,9274,21098,24732,26378,29491],"includeRotation":true,"onlyUnTargetable":true,"onlyVisible":true}],"UseTriggers":true,"Triggers":[{"Type":2,"Duration":4.0,"Match":"ニーズヘッグは「ゲイルスコグル」の構え。"}]}
-```
+``
 
 ```
 
